@@ -81,6 +81,9 @@ These two heatwaves seem very comparable in their effects and consequences, with
 
 ## Description of the events
 
+USA : <br>
+[Hurricane Harvey](https://en.wikipedia.org/wiki/Hurricane_Harvey) was a devastating Category 4 hurricane that made landfall on Texas and Louisiana in August 2017, causing catastrophic flooding, more than 100 deaths and inflicting $125 billion in property damage.
+
 INDIA : <br>
 [Cyclone Titli](https://en.wikipedia.org/wiki/Cyclone_Titli) caused extensive damage to Eastern India and Bangladesh at the start of October 2018. Killing at least 85 people, it also caused nearly one billion dollars in damages during the single day it was on land.
 
@@ -88,10 +91,22 @@ USA : <br>
 [Hurricane Florence](https://en.wikipedia.org/wiki/Hurricane_Florence) was a powerful hurricane that caused catastrophic damage in the Carolinas in September 2018. 
 Overall, the storm caused $24.23 billion in damage and 54 deaths.
 
+
 Although these events are not of the same scale, we did notice that the talk surrounding them was significant enough to warrant a study. 
 Also, Cyclone Titli occured around the same time as an IPCC special report on the impacts of global warming came out, making this study particularly difficult and interesting.
 
 ## Inspection of the data
+
+For this analysis, we start by noticing a (series of) relevant spike(s) in early September 2017 which coincide with the relevant spikes of Hurricane Harvey. The relevant spikes of the climate data are not extremely pronounced, but they are nevertheless non negligible. Secondly, looking at the normalized plot from 2018, we identify two main storm spikes, one for Hurricane Florence in September, and one for Cyclone Titli. For Hurricane Florence, we see a relevant spike in the climate data coinciding with the storm. The same is true for Cyclone Titli.
+
+Firstly, when inspecting trends on Google Trends, we noticed something [interesting](https://trends.google.com/trends/explore?date=2017-08-29%202017-09-29&q=%2Fm%2F0d063v) when considering the topic 'Climate Change' during the month of September 2019. Under 'Related queries' we noticed several 'Breakout' queries (defined by Google as: Results marked 'Breakout' had a tremendous increase, probably because these queries are new and had few (if any) prior searches) such as: "climate change hurricanes" and "does global warming cause hurricanes". However, this result was not reproducible in the month of September 2018. Our hypothesis is that the hurricane season of 2017 was the first one where the average person started to question whether or not hurricanes could be linked to climate change. This is likely due to the extremely devastating nature of the storm. Then, the following year, the increase in quotes related to climate change during the hurricane season was more pronounced because, at this point, the relationship between climate change and extreme storms had 'caught on' in mainstream media. We reinsist on the fact that this is merely our interpretation of the data at hand. 
+
+Secondly, we can compare the two relevant spikes in the climate data that coincide with the two storms. As we have said, relevant spikes aim to identify increases that occur in the real world, but these real world causes remain to be determined. As stated previously, we hypothesize that the spike occurring with Hurricane Florence is due to the hurricane itself. In the case of Cyclone Titli, it just so happens that an IPCC special report on the impacts of global warming was released a couple days prior, meaning that we can exclude the possibility that the spike is due to the report. If it is the case that the report caused the spike, or some of it, it would make sense to conclude, similarly to the analysis of the heat waves from 2015, that Western media tends to have a smaller reaction in terms of climate change discussion when it comes to a natural disaster that takes place in a developing country. 
+
+These results lead us to make the following hypotheses. Firstly, that a heat wave occurring in India doesn't attract the same level of attention (based on the spike magnitudes) as heat waves in Europe because Western media tends to have a stronger reaction to something when it happens geographically close to it. Secondly, the discussion around climate change might not increase as a result of a heat wave in India because they are more common there than in Europe. According to WHO: ["In India  Heat waves typically occur from March to June"](https://www.who.int/india/heat-waves). 
+
+Combining these two together, we can conclude that, in regards to heat waves, when this type of disaster happens in a developing country, such as [India](https://www.worlddata.info/developing-countries.php), Western media's reaction is non negligible, but there is no apparent increase in climate discussion. When, on the other hand, a heat wave takes place in Europe, it can generate climate discussion because the event is happening where the Western media is based and so there is a stronger need to find solutions to mitigate future similar events. When a heat wave takes place in India, the effects are not directly experienced by the Western media.
+
 
 ## Description of the events
 
@@ -108,7 +123,17 @@ Although the typhoon in Japan caused more monetary damages, that is to be expect
 
 ## Inspection of the data
 
+In the plot from 2019 we can see that there are two main spikes in the fall. The first one corresponds to Hurricane Dorian and the second with Typhoon Hagibis. For Hurricane Dorian there is no associated relevant spike in the climate data. This is not the case for Typhoon Hagibis, which does coincide with a relevant spike in the climate data.
 
+There is no major related 
+
+Note that the spike in climate data that reaches 1.0 at the end of September 2019 is due to the [September 2019 climate strikes](https://en.wikipedia.org/wiki/September_2019_climate_strikes).
+
+Regarding the heat wave in India, we can notice a relevant spike at the end of April due to a slight increase in heat wave quotes which is stronger than that of the general data. There is no corresponding relevant spike in the climate data, on the contrary, there is a sharp decrease. The spike in heat wave data towards the end of August corresponds mainly to heat waves that affected Europe. There is a corresponding relevant spike that can be observed in the climate data.
+
+These results lead us to make the following hypotheses. Firstly, that a heat wave occurring in India doesn't attract the same level of attention (based on the spike magnitudes) as heat waves in Europe because Western media tends to have a stronger reaction to something when it happens geographically close to it. Secondly, the discussion around climate change might not increase as a result of a heat wave in India because they are more common there than in Europe. According to WHO: ["In India  Heat waves typically occur from March to June"](https://www.who.int/india/heat-waves). 
+
+Combining these two together, we can conclude that, in regards to heat waves, when this type of disaster happens in a developing country, such as [India](https://www.worlddata.info/developing-countries.php), Western media's reaction is non negligible, but there is no apparent increase in climate discussion. When, on the other hand, a heat wave takes place in Europe, it can generate climate discussion because the event is happening where the Western media is based and so there is a stronger need to find solutions to mitigate future similar events. When a heat wave takes place in India, the effects are not directly experienced by the Western media.
 
 ### General conclusions about data: just because a natural disaster gets a lot of attention does not necessarily mean that it will drive climate change discussion. There are several reasons for this. 
 One is that a certain type of natural disaster might be common in parts of the world, meaning that quotes pertaining to governments advising the population to stay hydrated for example will occur frequently, but no discussion around climate change will be started because of how common the event is. 
