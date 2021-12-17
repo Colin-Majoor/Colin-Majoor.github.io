@@ -85,7 +85,8 @@ INDIA : <br>
 [Cyclone Titli](https://en.wikipedia.org/wiki/Cyclone_Titli) caused extensive damage to Eastern India and Bangladesh at the start of October 2018. Killing at least 85 people, it also caused nearly one billion dollars in damages during the single day it was on land.
 
 USA : <br>
-The [2017 Atlantic hurricane season](https://en.wikipedia.org/wiki/2017_Atlantic_hurricane_season) was an extremely active Atlantic hurricane season and the costliest on record, with a damage total of at least 290 billion dollars. The season featured 17 named storms, 10 hurricanes, and 6 major hurricanes. Most of the season's damage was due to hurricanes Harvey, Irma, and Maria.
+[Hurricane Florence](https://en.wikipedia.org/wiki/Hurricane_Florence) was a powerful hurricane that caused catastrophic damage in the Carolinas in September 2018. 
+Overall, the storm caused $24.23 billion in damage and 54 deaths.
 
 Although these events are not of the same scale, we did notice that the talk surrounding them was significant enough to warrant a study. 
 Also, Cyclone Titli occured around the same time as an IPCC special report on the impacts of global warming came out, making this study particularly difficult and interesting.
