@@ -132,7 +132,13 @@ One of the main takeaways from the analysis is that for a natural disaster to ca
 
 # Synthesis
 
-Map of the world showing that disasters in developping countries cause less talk about climate change. (India, Bahamas)
+To finish and try to answer the question we asked ourselves at the beginning of this data journey, we believe that there is a strong discrepency between climate change talk after a natural disaster according to the country of origin of the disaster itself. <br>
+To show this, hereafter is a map of the world on which we placed the locations of the disasters we mentioned above (for India we took one of the two studied events). We then added for each event the discussion about said event we found in Quotebank, and on top of that we added the intensity of the discussion about climate change generated as a result of this event.<br>
+This map gives us a clearer picture of where a natural disaster should occur if it wants to induce discussion around the topic of climate change.
+
+![alt text](images/world_map_data.png)
+
+
 
 Disasters in developped countries cause more talk about climate change.
 (Europe, USA, Japan)
