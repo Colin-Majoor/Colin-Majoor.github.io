@@ -40,6 +40,9 @@ Europe July to September – Spike in talks about climate change
 
 ## Inspection of the data
 
+![alt text](images/2015_storm.png)
+![alt text](images/2015_storm_peaks.png)
+
 ## Description of the events
 
 India May 2016 – No spike in talks about climate change (dropped)
