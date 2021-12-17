@@ -445,4 +445,8 @@ The events most likely to induce discussions would be storms or heat waves of ex
 There is therefore an **inherent egocentrical view** when linking natural disasters to climate change. Although the events all over the world point towards global warming, only those near to one will actually make one think about the direct effects it is having on one's life, and thus accelerate discussions. <br>
 Let's also not forget that having a quotebank made up entirely of english quotes does not make this task easier, and probably accentuates even more this couldn't-care-less attitude that we witness when an event does not occur close to home.
 
-# 
+# Going further
+
+After the analysis we carried out, we are aware that the data at our disposal can not accurately depict the discussion there could be around certain events. Even though our conclusions and analyses were in most cases in accordance with what we could find on Google Trends, there could be some discrepencies due to false positives in the data we work with.
+
+To further analyze the questions we have, it would be interesting to include data from other languages than english. That would then allow us to more accurately represent the **global** discussion around climate change, instead of the discussion of the **english-speaking** world only. 
