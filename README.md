@@ -345,7 +345,6 @@ These results lead us to make the following hypotheses. Firstly, that a heat wav
 
 Combining these two together, we can conclude that, in regards to heat waves, when this type of disaster happens in a developing country, such as [India](https://www.worlddata.info/developing-countries.php), Western media's reaction is non negligible, but there is no apparent increase in climate discussion. When, on the other hand, a heat wave takes place in Europe, it can generate climate discussion because the event is happening where the Western media is based and so there is a stronger need to find solutions to mitigate future similar events. When a heat wave takes place in India, the effects are not directly experienced by the Western media.
 
-![alt text](images/2015_heat_wave_c.png)
 ![alt text](images/2015_heat_wave_peaks_c.png)
 
 ## Description of the events
@@ -381,10 +380,8 @@ These results lead us to make the following hypotheses. Firstly, that a heat wav
 
 Combining these two together, we can conclude that, in regards to heat waves, when this type of disaster happens in a developing country, such as [India](https://www.worlddata.info/developing-countries.php), Western media's reaction is non negligible, but there is no apparent increase in climate discussion. When, on the other hand, a heat wave takes place in Europe, it can generate climate discussion because the event is happening where the Western media is based and so there is a stronger need to find solutions to mitigate future similar events. When a heat wave takes place in India, the effects are not directly experienced by the Western media.
 
-![alt text](images/2017_storm_c.png)
 ![alt text](images/2017_storm_peaks_c.png)
 
-![alt text](images/2018_storm_c.png)
 ![alt text](images/2018_storm_peaks_c.png)
 
 ## Description of the events
@@ -411,8 +408,6 @@ We conclude with the following hypotheses. The typhoon that hit Japan, a develop
 
 Note that the spike in climate data that reaches 1.0 at the end of September 2019 is due to the [September 2019 climate strikes](https://en.wikipedia.org/wiki/September_2019_climate_strikes).
 
-
-![alt text](images/2019_storm_c.png)
 ![alt text](images/2019_storm_peaks_c.png)
 
 ## General conclusions about the data analysis 
