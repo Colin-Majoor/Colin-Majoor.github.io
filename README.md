@@ -262,21 +262,166 @@ The plot and result is following:
 
 ![alt text](images/correlation_vis.png)
 
-Correlation coefficient between severe score and num_quota  r is =  0.056，p value is =  0.678
-
-Correlation coefficient between severe score and total_occur  r is =  0.099，p value is =  0.462
-
-Correlation coefficient between death score and num_quota  r is = -0.076，p value is =  0.572
-
-Correlation coefficient between affected score and num_quota  r is = -0.043，p value is =  0.753
-
-Correlation coefficient between damage score and num_quota  r is =  0.262，p value is =  0.049
-
-Correlation coefficient between death score and total_occur  r is = -0.061，p value is =  0.650
-
-Correlation coefficient between affected score and total_occur  r is =  0.049，p value is =  0.720
-
-Correlation coefficient between damage score and total_occur  r is =  0.247，p value is =  0.064
+<table class="MsoTableGrid" border="1" cellspacing="0" cellpadding="0" style="border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
+ mso-yfti-tbllook:1184;mso-padding-alt:0cm 5.4pt 0cm 5.4pt">
+ <tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:8.6pt">
+  <td width="195" valign="top" style="width:146.25pt;border:solid windowtext 1.0pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:8.6pt">
+  <p class="MsoNormal"><span lang="EN-US" style="font-family:&quot;Arial&quot;,sans-serif">Correlation<o:p></o:p></span></p>
+  </td>
+  <td width="195" valign="top" style="width:146.25pt;border:solid windowtext 1.0pt;
+  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:8.6pt">
+  <p class="MsoNormal"><span lang="EN-US" style="font-family:&quot;Arial&quot;,sans-serif">Number
+  of different quotas<o:p></o:p></span></p>
+  </td>
+  <td width="195" valign="top" style="width:146.45pt;border:solid windowtext 1.0pt;
+  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:8.6pt">
+  <p class="MsoNormal"><span lang="EN-US" style="font-family:&quot;Arial&quot;,sans-serif"><span style="mso-spacerun:yes">&nbsp;</span><o:p></o:p></span></p>
+  </td>
+  <td width="195" valign="top" style="width:146.45pt;border:solid windowtext 1.0pt;
+  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:8.6pt">
+  <p class="MsoNormal"><span lang="EN-US" style="font-family:&quot;Arial&quot;,sans-serif">Total
+  quotas occurrence<o:p></o:p></span></p>
+  </td>
+  <td width="195" valign="top" style="width:146.45pt;border:solid windowtext 1.0pt;
+  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:8.6pt">
+  <p class="MsoNormal"><span lang="EN-US" style="font-family:&quot;Arial&quot;,sans-serif"><span style="mso-spacerun:yes">&nbsp;</span><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style="mso-yfti-irow:1;height:8.6pt">
+  <td width="195" valign="top" style="width:146.25pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:8.6pt">
+  <p class="MsoNormal"><span lang="EN-US" style="font-family:&quot;Arial&quot;,sans-serif"><span style="mso-spacerun:yes">&nbsp;</span><o:p></o:p></span></p>
+  </td>
+  <td width="195" valign="top" style="width:146.25pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:8.6pt">
+  <p class="MsoNormal"><span lang="EN-US" style="font-family:&quot;Arial&quot;,sans-serif">Correlation
+  coefficient<o:p></o:p></span></p>
+  </td>
+  <td width="195" valign="top" style="width:146.45pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:8.6pt">
+  <p class="MsoNormal"><span lang="EN-US" style="font-family:&quot;Arial&quot;,sans-serif">P-value<o:p></o:p></span></p>
+  </td>
+  <td width="195" valign="top" style="width:146.45pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:8.6pt">
+  <p class="MsoNormal"><span lang="EN-US" style="font-family:&quot;Arial&quot;,sans-serif">Correlation
+  coefficient<o:p></o:p></span></p>
+  </td>
+  <td width="195" valign="top" style="width:146.45pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:8.6pt">
+  <p class="MsoNormal"><span lang="EN-US" style="font-family:&quot;Arial&quot;,sans-serif">P-value<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style="mso-yfti-irow:2;height:8.6pt">
+  <td width="195" valign="top" style="width:146.25pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:8.6pt">
+  <p class="MsoNormal"><span lang="EN-US" style="font-family:&quot;Arial&quot;,sans-serif">Severity
+  score<o:p></o:p></span></p>
+  </td>
+  <td width="195" valign="top" style="width:146.25pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:8.6pt"><pre style="background:white;vertical-align:baseline;word-break:break-all"><span lang="EN-US" style="font-size:10.5pt;font-family:&quot;Arial&quot;,sans-serif;color:black">0.056</span><span lang="EN-US" style="mso-bidi-font-size:10.5pt;font-family:&quot;Arial&quot;,sans-serif;
+  color:black"><o:p></o:p></span></pre></td>
+  <td width="195" valign="top" style="width:146.45pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:8.6pt"><pre style="background:white;vertical-align:baseline;word-break:break-all"><span lang="EN-US" style="font-size:10.5pt;font-family:&quot;Arial&quot;,sans-serif;color:black">0.678<o:p></o:p></span></pre></td>
+  <td width="195" valign="top" style="width:146.45pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:8.6pt"><pre style="background:white;vertical-align:baseline;word-break:break-all"><span lang="EN-US" style="font-size:10.5pt;font-family:&quot;Arial&quot;,sans-serif;color:black">0.099<o:p></o:p></span></pre></td>
+  <td width="195" valign="top" style="width:146.45pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:8.6pt"><pre style="background:white;vertical-align:baseline;word-break:break-all"><span lang="EN-US" style="font-size:10.5pt;font-family:&quot;Arial&quot;,sans-serif;color:black">0.462<o:p></o:p></span></pre></td>
+ </tr>
+ <tr style="mso-yfti-irow:3;height:8.6pt">
+  <td width="195" valign="top" style="width:146.25pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:8.6pt">
+  <p class="MsoNormal"><span lang="EN-US" style="font-family:&quot;Arial&quot;,sans-serif">Death
+  score<o:p></o:p></span></p>
+  </td>
+  <td width="195" valign="top" style="width:146.25pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:8.6pt"><pre style="background:white;vertical-align:baseline;word-break:break-all"><span lang="EN-US" style="font-size:10.5pt;font-family:&quot;Arial&quot;,sans-serif;color:black">-0.076<o:p></o:p></span></pre></td>
+  <td width="195" valign="top" style="width:146.45pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:8.6pt"><pre style="background:white;vertical-align:baseline;word-break:break-all"><span lang="EN-US" style="font-size:10.5pt;font-family:&quot;Arial&quot;,sans-serif;color:black">0.572<o:p></o:p></span></pre></td>
+  <td width="195" valign="top" style="width:146.45pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:8.6pt"><pre style="background:white;vertical-align:baseline;word-break:break-all"><span lang="EN-US" style="font-size:10.5pt;font-family:&quot;Arial&quot;,sans-serif;color:black">-0.061<o:p></o:p></span></pre></td>
+  <td width="195" valign="top" style="width:146.45pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:8.6pt"><pre style="background:white;vertical-align:baseline;word-break:break-all"><span lang="EN-US" style="font-size:10.5pt;font-family:&quot;Arial&quot;,sans-serif;color:black">0.650<o:p></o:p></span></pre></td>
+ </tr>
+ <tr style="mso-yfti-irow:4;height:8.6pt">
+  <td width="195" valign="top" style="width:146.25pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:8.6pt">
+  <p class="MsoNormal" style="tab-stops:right 118.15pt"><span lang="EN-US" style="font-family:&quot;Arial&quot;,sans-serif">Affected score<o:p></o:p></span></p>
+  </td>
+  <td width="195" valign="top" style="width:146.25pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:8.6pt"><pre style="background:white;vertical-align:baseline;word-break:break-all"><span lang="EN-US" style="font-size:10.5pt;font-family:&quot;Arial&quot;,sans-serif;color:black">-0.043<o:p></o:p></span></pre></td>
+  <td width="195" valign="top" style="width:146.45pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:8.6pt"><pre style="background:white;vertical-align:baseline;word-break:break-all"><span lang="EN-US" style="font-size:10.5pt;font-family:&quot;Arial&quot;,sans-serif;color:black">0.753<o:p></o:p></span></pre></td>
+  <td width="195" valign="top" style="width:146.45pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:8.6pt"><pre style="background:white;vertical-align:baseline;word-break:break-all"><span lang="EN-US" style="font-size:10.5pt;font-family:&quot;Arial&quot;,sans-serif;color:black">0.049<o:p></o:p></span></pre></td>
+  <td width="195" valign="top" style="width:146.45pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:8.6pt"><pre style="background:white;vertical-align:baseline;word-break:break-all"><span lang="EN-US" style="font-size:10.5pt;font-family:&quot;Arial&quot;,sans-serif;color:black">0.720<o:p></o:p></span></pre></td>
+ </tr>
+ <tr style="mso-yfti-irow:5;mso-yfti-lastrow:yes;height:8.6pt">
+  <td width="195" valign="top" style="width:146.25pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt;height:8.6pt">
+  <p class="MsoNormal"><span lang="EN-US" style="font-family:&quot;Arial&quot;,sans-serif">Damage
+  score<o:p></o:p></span></p>
+  </td>
+  <td width="195" valign="top" style="width:146.25pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:8.6pt"><pre style="background:white;vertical-align:baseline;word-break:break-all"><span lang="EN-US" style="font-size:10.5pt;font-family:&quot;Arial&quot;,sans-serif;color:black">0.262<o:p></o:p></span></pre></td>
+  <td width="195" valign="top" style="width:146.45pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:8.6pt"><pre style="background:white;vertical-align:baseline;word-break:break-all"><span lang="EN-US" style="font-size:10.5pt;font-family:&quot;Arial&quot;,sans-serif;color:black">0.049<o:p></o:p></span></pre></td>
+  <td width="195" valign="top" style="width:146.45pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:8.6pt"><pre style="background:white;vertical-align:baseline;word-break:break-all"><span lang="EN-US" style="font-size:10.5pt;font-family:&quot;Arial&quot;,sans-serif;color:black">0.247<o:p></o:p></span></pre></td>
+  <td width="195" valign="top" style="width:146.45pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt;height:8.6pt"><pre style="background:white;vertical-align:baseline;word-break:break-all"><span lang="EN-US" style="font-size:10.5pt;font-family:&quot;Arial&quot;,sans-serif;color:black">0.064<o:p></o:p></span></pre></td>
+ </tr>
+</tbody></table>
 
 
 
