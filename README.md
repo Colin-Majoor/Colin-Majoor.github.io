@@ -76,5 +76,4 @@ Disasters in developped countries cause more talk about climate change.
 
 
 This is the first question we wanted to answer.
-![alt text](images/2015_storm.png)
-![alt text](images/2015_storm_peaks.png)
+
