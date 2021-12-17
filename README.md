@@ -309,13 +309,11 @@ We can see the same trend in Google Trends.
 ![alt text](images/big event&time.png)
 
 
-# We pick specific storms and heat waves, why ?
+# Case study on two specific types of natural disasters
 
-- articles with sources linking those events to climate change
+We decide to take a closer look at two specific types of natural disasters: storms (e.g., hurricanes, typhoons, ...) and heat waves. This choice for this ultimately boils down to the fact that both [storms](https://www.c2es.org/content/hurricanes-and-climate-change/) and [heat waves](https://www.c2es.org/content/heat-waves-and-climate-change/) are natural disasters which have likely worsened due to climate change over the past decades. 
 
-Selected events based on the apparent link in Quotebank between talk about the event and about climate change. Visual inspection of the plots + Google trends to ensure the talks are in fact due to the event and not other climate related activities (conference, strike, speech, etc.)
-
-In the following sections, a comparison is made between discussion around the topic of climate change (climate data) and a general type of natural disaster (disaster data), either storms (e.g., hurricanes, typhoons, ...) or heat waves. One can be tempted to conclude that an observed increase in both would mean that the natural disaster caused an increase in discussion around climate change, however many factors can come into play. Real world factors could be climate summits and strikes or the release of a major climate report. On a more technical level though, the overall amount of quotes in the Quotebank dataset can fluctuate over time, meaning that an observed increase in the quotes related to climate change might be due to an increase in the overall number of quotes retrieved during that time window, rather than being due to a actual increase in quotes in the real world.
+In the following sections, a comparison is made between discussion around the topic of climate change (climate data) and a general type of natural disaster (disaster data), either storms or heat waves. We plot the weekly-binned number of occurrences over the course of a year. One can be tempted to conclude that an observed increase in both would mean that the natural disaster caused an increase in discussion around climate change, however many factors can come into play. Real world factors could be climate summits and strikes or the release of a major climate report. On a more technical level though, the overall amount of quotes in the Quotebank dataset can fluctuate over time, meaning that an observed increase in the quotes related to climate change might be due to an increase in the overall number of quotes retrieved during that time window, rather than being due to a actual increase in quotes in the real world.
 
 We attempt to account for the fluctuation in overall quotes retrieved over a time period by picking a common english word ('especially') which is broad enough to appear in many different contexts but not so broad that a subset of the Quotebank dataset which contains this token is too big to load into memory. The idea is that this subset of Quotebank (general data) is able to represent the general evolution of the number of quotes throughout a given time frame.
 
