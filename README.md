@@ -18,3 +18,5 @@ And if it does, is it the same everywhere, or are there geographical discrepenci
 # Do natural disasters drive discussions about climate change ? 
 
 This is the first question we wanted to answer.
+![alt text](images/2015_storm.png)
+![alt text](images/2015_storm_peaks.png)
