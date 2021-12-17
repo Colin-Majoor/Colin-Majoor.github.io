@@ -290,13 +290,13 @@ Following is the analysis results by region:
 (The more upward the blue bar, the greater the total severity of natural disasters suffered by the area during the statistical time, and vice versa. The more upward the blue bar, the greater the total severity of natural disasters suffered by this area during the statistical time, and vice versa. The higher the green and red bars, the higher the intensity of the discussion on climate change related topics in the region at the corresponding time, and vice versa.)
  
 
- <img src="images/western_eu.png" width="200"/>
-<img src= "images/north_american.png" width = "200"/> <img src= "images/southern_eu.png" width = "200"/>
+ <img src="images/western_eu.png" width="250"/>
+<img src= "images/north_american.png" width = "250"/> <img src= "images/southern_eu.png" width = "250"/>
 
 <br>
 <hr style="border:2px solid gray">
 
-<img src="images/west_asia.png" width = "200"/> <img src= "images/south_asia.png" width = "200"/> <img src= "images/north_africa.png" width = "200"/>
+<img src="images/west_asia.png" width = "250"/> <img src= "images/south_asia.png" width = "250"/> <img src= "images/north_africa.png" width = "250"/>
 
 From the results we can conclude that developed countries have experienced less severe natural disasters, but that these natural disasters have led to more discussions about climate change. Meanwhile, developing countries have experienced more severe natural disasters, but these have generated less discussion.
 
@@ -306,14 +306,14 @@ People will always pay more attention to things they can perceive.
 Two other conclusions from the country-based analysis are that 1. natural disasters in smaller countries are less likely to generate public concern about climate change, a typical example being Fiji. 2. natural disasters in countries where fewer people speak English also generate less discussion about climate change, typical examples being Russia and China, as analyzed from this English-language dataset.
 
 
--big event
+- Big event
 
 We did a time-based analysis of the discussion on climate change, as shown below, and found several clear dips and downward trends.
 For the decline in late April 2019, we suspect it may be due to the fire event of Notre Dame at that time, this event diverted people's attention from other things. the decline in late 2019 and early 2020 is due to Covid-19.
 We can see the same trend in Google Trends.
 
 
-![alt text](images/big event&time.png)
+![alt text](images/big_event_time.png)
 
 
 # Case study on two specific types of natural disasters
@@ -441,4 +441,8 @@ The events most likely to induce discussions would be storms or heat waves of ex
 There is therefore an **inherent egocentrical view** when linking natural disasters to climate change. Although the events all over the world point towards global warming, only those near to one will actually make one think about the direct effects it is having on one's life, and thus accelerate discussions. <br>
 Let's also not forget that having a quotebank made up entirely of english quotes does not make this task easier, and probably accentuates even more this couldn't-care-less attitude that we witness when an event does not occur close to home.
 
-# 
+# Going further
+
+After the analysis we carried out, we are aware that the data at our disposal can not accurately depict the discussion there could be around certain events. Even though our conclusions and analyses were in most cases in accordance with what we could find on Google Trends, there could be some discrepencies due to false positives in the data we work with.
+
+To further analyze the questions we have, it would be interesting to include data from other languages than english. That would then allow us to more accurately represent the **global** discussion around climate change, instead of the discussion of the **english-speaking** world only. 
