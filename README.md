@@ -306,14 +306,14 @@ People will always pay more attention to things they can perceive.
 Two other conclusions from the country-based analysis are that 1. natural disasters in smaller countries are less likely to generate public concern about climate change, a typical example being Fiji. 2. natural disasters in countries where fewer people speak English also generate less discussion about climate change, typical examples being Russia and China, as analyzed from this English-language dataset.
 
 
--big event
+- Big event
 
 We did a time-based analysis of the discussion on climate change, as shown below, and found several clear dips and downward trends.
 For the decline in late April 2019, we suspect it may be due to the fire event of Notre Dame at that time, this event diverted people's attention from other things. the decline in late 2019 and early 2020 is due to Covid-19.
 We can see the same trend in Google Trends.
 
 
-![alt text](images/big event&time.png)
+![alt text](images/big_event_time.png)
 
 
 # Case study on two specific types of natural disasters
