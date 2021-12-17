@@ -48,7 +48,7 @@ The first events we will consider are both heat waves from the year 2015.
 INDIA : <br>
 During the month of may 2015, a severe [heat wave](https://en.wikipedia.org/wiki/2015_Indian_heat_wave) struck India, with recorded temperatures nearing 50°C. Although the number of people affected is not well known, the heat wave caused at least 2500 casualties in multiple regions, making this heat wave the most deadly since 1979.
 
-<hr style="border:2px solid gray"> </hr>
+<hr style="border:2px solid gray">
 
 EUROPE : <br>
 Unusual [heat](https://www.worldweatherattribution.org/european-heat-wave-july-2015/) [waves](https://www.washingtonpost.com/outlook/2019/07/26/europes-killer-heat-waves-are-new-norm-death-rates-shouldnt-be) occurred in Europe from late June to mid-September 2015, with over 40°C measured locally, the highest temperatures measured since the beginning of the weather records in certain parts of Europe. The Maghreb Mediterranean coast, south-west, central and south-east Europe were particularly hard hit. Statistically in France, around 3300 deaths were attributed to this series of heat waves.
@@ -71,8 +71,12 @@ Combining these two together, we can conclude that, in regards to heat waves, wh
 USA : <br>
 [Hurricane Harvey](https://en.wikipedia.org/wiki/Hurricane_Harvey) was a devastating Category 4 hurricane that made landfall on Texas and Louisiana in August 2017, causing catastrophic flooding, more than 100 deaths and inflicting $125 billion in property damage.
 
+<hr style="border:2px solid gray">
+
 INDIA : <br>
 [Cyclone Titli](https://en.wikipedia.org/wiki/Cyclone_Titli) caused extensive damage to Eastern India and Bangladesh at the start of October 2018. Killing at least 85 people, it also caused nearly one billion dollars in damages during the single day it was on land.
+
+<hr style="border:2px solid gray">
 
 USA : <br>
 [Hurricane Florence](https://en.wikipedia.org/wiki/Hurricane_Florence) was a powerful hurricane that caused catastrophic damage in the Carolinas in September 2018. 
@@ -97,11 +101,10 @@ Combining these two together, we can conclude that, in regards to heat waves, wh
 
 ## Description of the events
 
-2019 Dorian end of august in Bahamas, close to US but no contact – No increase in climate change talk
-Typhoon Hagibis 10 October 2019 in Japan – Relatively important increase in talk about climate change (drop in baseline number of quotes)
-
 BAHAMAS : <br>
 In September of 2019 during hurricane season, [Hurricane Dorian](https://en.wikipedia.org/wiki/Hurricane_Dorian) became the worst natural disaster in The Bahamas' recorded history, with 74 deaths, 245 missing and over 3 billion dollars in damages.
+
+<hr style="border:2px solid gray">
 
 JAPAN : <br>
 At the start of October 2019, the [Typhoon Hagibis](https://en.wikipedia.org/wiki/Typhoon_Hagibis) caused widespread destruction in Japan. It was the strongest typhoon to strike mainland Japan in decades, and one of the largest typhoons ever recorded. Japan's Fire and Disaster Management Agency stated that at least 98 people have been confirmed dead, 7 people are missing, with 346 people injured by the storm. More than 270,000 households lost power across the country. The total damages were estimated at over 15 billion dollars.
