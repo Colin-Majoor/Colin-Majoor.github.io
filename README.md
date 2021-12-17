@@ -316,13 +316,11 @@ We can see the same trend in Google Trends.
 ![alt text](images/big event&time.png)
 
 
-# We pick specific storms and heat waves, why ?
+# Case study on two specific types of natural disasters
 
-- articles with sources linking those events to climate change
+We decide to take a closer look at two specific types of natural disasters: storms (e.g., hurricanes, typhoons, ...) and heat waves. This choice for this ultimately boils down to the fact that both [storms](https://www.c2es.org/content/hurricanes-and-climate-change/) and [heat waves](https://www.c2es.org/content/heat-waves-and-climate-change/) are natural disasters which have likely worsened due to climate change over the past decades. 
 
-Selected events based on the apparent link in Quotebank between talk about the event and about climate change. Visual inspection of the plots + Google trends to ensure the talks are in fact due to the event and not other climate related activities (conference, strike, speech, etc.)
-
-In the following sections, a comparison is made between discussion around the topic of climate change (climate data) and a general type of natural disaster (disaster data), either storms (e.g., hurricanes, typhoons, ...) or heat waves. One can be tempted to conclude that an observed increase in both would mean that the natural disaster caused an increase in discussion around climate change, however many factors can come into play. Real world factors could be climate summits and strikes or the release of a major climate report. On a more technical level though, the overall amount of quotes in the Quotebank dataset can fluctuate over time, meaning that an observed increase in the quotes related to climate change might be due to an increase in the overall number of quotes retrieved during that time window, rather than being due to a actual increase in quotes in the real world.
+In the following sections, a comparison is made between discussion around the topic of climate change (climate data) and a general type of natural disaster (disaster data), either storms or heat waves. We plot the weekly-binned number of occurrences over the course of a year. One can be tempted to conclude that an observed increase in both would mean that the natural disaster caused an increase in discussion around climate change, however many factors can come into play. Real world factors could be climate summits and strikes or the release of a major climate report. On a more technical level though, the overall amount of quotes in the Quotebank dataset can fluctuate over time, meaning that an observed increase in the quotes related to climate change might be due to an increase in the overall number of quotes retrieved during that time window, rather than being due to a actual increase in quotes in the real world.
 
 We attempt to account for the fluctuation in overall quotes retrieved over a time period by picking a common english word ('especially') which is broad enough to appear in many different contexts but not so broad that a subset of the Quotebank dataset which contains this token is too big to load into memory. The idea is that this subset of Quotebank (general data) is able to represent the general evolution of the number of quotes throughout a given time frame.
 
@@ -354,7 +352,6 @@ These results lead us to make the following hypotheses. Firstly, that a heat wav
 
 Combining these two together, we can conclude that, in regards to heat waves, when this type of disaster happens in a developing country, such as [India](https://www.worlddata.info/developing-countries.php), Western media's reaction is non negligible, but there is no apparent increase in climate discussion. When, on the other hand, a heat wave takes place in Europe, it can generate climate discussion because the event is happening where the Western media is based and so there is a stronger need to find solutions to mitigate future similar events. When a heat wave takes place in India, the effects are not directly experienced by the Western media.
 
-![alt text](images/2015_heat_wave_c.png)
 ![alt text](images/2015_heat_wave_peaks_c.png)
 
 ## Description of the events
@@ -390,10 +387,8 @@ These results lead us to make the following hypotheses. Firstly, that a heat wav
 
 Combining these two together, we can conclude that, in regards to heat waves, when this type of disaster happens in a developing country, such as [India](https://www.worlddata.info/developing-countries.php), Western media's reaction is non negligible, but there is no apparent increase in climate discussion. When, on the other hand, a heat wave takes place in Europe, it can generate climate discussion because the event is happening where the Western media is based and so there is a stronger need to find solutions to mitigate future similar events. When a heat wave takes place in India, the effects are not directly experienced by the Western media.
 
-![alt text](images/2017_storm_c.png)
 ![alt text](images/2017_storm_peaks_c.png)
 
-![alt text](images/2018_storm_c.png)
 ![alt text](images/2018_storm_peaks_c.png)
 
 ## Description of the events
@@ -420,8 +415,6 @@ We conclude with the following hypotheses. The typhoon that hit Japan, a develop
 
 Note that the spike in climate data that reaches 1.0 at the end of September 2019 is due to the [September 2019 climate strikes](https://en.wikipedia.org/wiki/September_2019_climate_strikes).
 
-
-![alt text](images/2019_storm_c.png)
 ![alt text](images/2019_storm_peaks_c.png)
 
 ## General conclusions about the data analysis 
