@@ -97,10 +97,10 @@ Also, Cyclone Titli occured around the same time as an IPCC special report on th
 2019 Dorian end of august in Bahamas, close to US but no contact – No increase in climate change talk
 Typhoon Hagibis 10 October 2019 in Japan – Relatively important increase in talk about climate change (drop in baseline number of quotes)
 
-BAHAMAS : </br>
+BAHAMAS : <br>
 In September of 2019 during hurricane season, [Hurricane Dorian](https://en.wikipedia.org/wiki/Hurricane_Dorian) became the worst natural disaster in The Bahamas' recorded history, with 74 deaths, 245 missing and over 3 billion dollars in damages.
 
-JAPAN : </br>
+JAPAN : <br>
 At the start of October 2019, the [Typhoon Hagibis](https://en.wikipedia.org/wiki/Typhoon_Hagibis) caused widespread destruction in Japan. It was the strongest typhoon to strike mainland Japan in decades, and one of the largest typhoons ever recorded. Japan's Fire and Disaster Management Agency stated that at least 98 people have been confirmed dead, 7 people are missing, with 346 people injured by the storm. More than 270,000 households lost power across the country. The total damages were estimated at over 15 billion dollars.
 
 Although the typhoon in Japan caused more monetary damages, that is to be expected considering the size of the country. 
@@ -109,7 +109,7 @@ Although the typhoon in Japan caused more monetary damages, that is to be expect
 
 
 
-## General conclusions about data: just because a natural disaster gets a lot of attention does not necessarily mean that it will drive climate change discussion. There are several reasons for this. 
+### General conclusions about data: just because a natural disaster gets a lot of attention does not necessarily mean that it will drive climate change discussion. There are several reasons for this. 
 One is that a certain type of natural disaster might be common in parts of the world, meaning that quotes pertaining to governments advising the population to stay hydrated for example will occur frequently, but no discussion around climate change will be started because of how common the event is. 
 Another is that a natural disaster might not be devastating enough to catch the attention of major public figures.
 
