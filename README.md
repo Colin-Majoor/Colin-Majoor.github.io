@@ -11,7 +11,7 @@ These natural disasters are maybe the most concrete repercussions yet of climate
 
 ## Question
 
-Thus, we wonder whether an increase in the severity of natural disasters leads to a broader discussion about climate change and its dangers ? </br>
+Thus, we wonder whether an increase in the severity of natural disasters leads to a broader discussion about climate change and its dangers ? <br>
 And if it does, is it the same everywhere, or are there geographical discrepencies in the effect natural disasters have on the talk about climate change ?
 
 
@@ -239,7 +239,7 @@ in triggering discussions on topics related to climate change, etc.
  </tr>
 </tbody></table>
 
-But we need to dive deeper and we see that there are 4 conditions for a natural disaster to cause talk about climate change.
+But we need to dive deeper and we see that there are 2 conditions for a natural disaster to cause talk about climate change.
 
 
 
@@ -253,8 +253,9 @@ We used two methods to evaluate the correlations, calculating correlation coeffi
 We plotted scatter plots for each of the four natural disaster assessment metrics and the total number of quotations and their total occurrences in the coming week, 
 and calculated their correlation coefficients and p-values.
 
-From scatter map, Correlation coefficient and p value, We found there's no correlation between the severity of the disaster and the intensity of discussion on the topic of climate change. 
-The only slight link to the intensity of discussion on climate change related topics is property damage.
+From scatter map, Correlation coefficient and p value, We found there's no direct correlation between the severity of the disaster and the intensity of discussion on the topic of climate change. 
+The only slight link to the intensity of discussion on climate change related topics is property damage. <br>
+This, however, does not exclude severity totally. We will see later on that severity is an explanation in extreme cases, by that we mean that extremely violent events **will** induce talks about climate change by their severity.
 
 The plot and result is following:
 
@@ -432,7 +433,7 @@ From developed and developing countries, we see two very different models.
 
 Following is the analysis results by region:
 
-(The more upward the blue bar, the greater the total severity of natural disasters suffered by the area during the statistical time, and vice versa. The more upward the blue bar, the greater the total severity of natural disasters suffered by this area during the statistical time, and vice versa. The higher the green and red bars, the higher the intensity of the discussion on climate change related topics in the region at the corresponding time, and vice versa.)
+(The more upward the blue bar, the greater the total severity of natural disasters suffered by the area during the statistical time, and vice versa.  The higher the green and red bars, the higher the intensity of the discussion on climate change related topics in the region at the corresponding time, and vice versa.)
  
 
  <img src="images/western_eu.png" width="250"/>
@@ -443,23 +444,12 @@ Following is the analysis results by region:
 
 <img src="images/west_asia.png" width = "250"/> <img src= "images/south_asia.png" width = "250"/> <img src= "images/north_africa.png" width = "250"/>
 
-From the results we can conclude that developed countries have experienced less severe natural disasters, but that these natural disasters have led to more discussions about climate change. Meanwhile, developing countries have experienced more severe natural disasters, but these have generated less discussion.
+From the results we can conclude that developed countries have experienced **less severe natural disasters**, but that these natural disasters have led to **more discussions about climate change**. Meanwhile, developing countries have experienced more severe natural disasters, but these have generated less discussion.
 
 In addition to the difference between developed and developing countries, another hypothesis about this phenomenon is that because this is an English-language dataset, the quotes and discussions are based on Anglo countries, each of country has more concerns about climate change because of natural disasters that occur within their own country or in more closely connected countries.
 People will always pay more attention to things they can perceive.
 
 Two other conclusions from the country-based analysis are that 1. natural disasters in smaller countries are less likely to generate public concern about climate change, a typical example being Fiji. 2. natural disasters in countries where fewer people speak English also generate less discussion about climate change, typical examples being Russia and China, as analyzed from this English-language dataset.
-
-
-- Big event
-
-We did a time-based analysis of the discussion on climate change, as shown below, and found several clear dips and downward trends.
-For the decline in late April 2019, we suspect it may be due to the fire event of Notre Dame at that time, this event diverted people's attention from other things. the decline in late 2019 and early 2020 is due to Covid-19.
-We can see the same trend in Google Trends.
-
-
-![alt text](images/big_event_time.png)
-
 
 # Case study on two specific types of natural disasters
 
