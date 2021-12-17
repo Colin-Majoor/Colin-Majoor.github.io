@@ -290,13 +290,13 @@ Following is the analysis results by region:
 (The more upward the blue bar, the greater the total severity of natural disasters suffered by the area during the statistical time, and vice versa. The more upward the blue bar, the greater the total severity of natural disasters suffered by this area during the statistical time, and vice versa. The higher the green and red bars, the higher the intensity of the discussion on climate change related topics in the region at the corresponding time, and vice versa.)
  
 
- <img src="images/western_eu.png" width="300"/>
-<img src= "images/north_american.png" width = "300"/> <img src= "images/southern_eu.png" width = "300"/>
+ <img src="images/western_eu.png" width="250"/>
+<img src= "images/north_american.png" width = "250"/> <img src= "images/southern_eu.png" width = "250"/>
 
 <br>
 <hr style="border:2px solid gray">
 
-<img src="images/west_asia.png" width = "300"/> <img src= "images/south_asia.png" width = "300"/> <img src= "images/north_africa.png" width = "300"/>
+<img src="images/west_asia.png" width = "250"/> <img src= "images/south_asia.png" width = "250"/> <img src= "images/north_africa.png" width = "250"/>
 
 From the results we can conclude that developed countries have experienced less severe natural disasters, but that these natural disasters have led to more discussions about climate change. Meanwhile, developing countries have experienced more severe natural disasters, but these have generated less discussion.
 
