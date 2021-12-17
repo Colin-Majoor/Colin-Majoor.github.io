@@ -291,12 +291,12 @@ Following is the analysis results by region:
  
 
  <img src="images/western_eu.png" width="200"/>
-<img src= "images/north_american.png" width = "200"/> <img src= "images/southern_eu.png" width = "200", height = "200”/>
+<img src= "images/north_american.png" width = "200"/> <img src= "images/southern_eu.png" width = "200"/>
 
 <br>
 <hr style="border:2px solid gray">
 
-<img src="images/west_asia.png" width = "200"/> <img src= "images/south_asia.png" width = "200"/> <img src= "images/north_africa.png" width = "200", height = "200”/>
+<img src="images/west_asia.png" width = "200"/> <img src= "images/south_asia.png" width = "200"/> <img src= "images/north_africa.png" width = "200"/>
 
 From the results we can conclude that developed countries have experienced less severe natural disasters, but that these natural disasters have led to more discussions about climate change. Meanwhile, developing countries have experienced more severe natural disasters, but these have generated less discussion.
 
