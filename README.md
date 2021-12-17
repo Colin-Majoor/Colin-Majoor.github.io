@@ -134,17 +134,18 @@ One of the main takeaways from the analysis is that for a natural disaster to ca
 
 To finish and try to answer the question we asked ourselves at the beginning of this data journey, we believe that there is a strong discrepency between climate change talk after a natural disaster according to the country of origin of the disaster itself. <br>
 To show this, hereafter is a map of the world on which we placed the locations of the disasters we mentioned above (for India we took one of the two studied events). We then added for each event the discussion about said event we found in Quotebank, and on top of that we added the intensity of the discussion about climate change generated as a result of this event.<br>
-This map gives us a clearer picture of where a natural disaster should occur if it wants to induce discussion around the topic of climate change.
+This map gives us a clearer picture of **where a natural disaster should occur** if it wants to induce discussion around the topic of climate change.
 
 ![alt text](images/world_map_data.png)
 
 
+All the data we have points towards 3 conditions for a natural disaster to induce discussions about climate change, in ascending order of importance :
+- The type of event, as long as it is associated with climate change
+- The severity of the event
+- The location of the event
 
-Disasters in developped countries cause more talk about climate change.
-(Europe, USA, Japan)
+Then, the events least likely to induce discussions could be forest fires of small intensity in a developping country. <br>
+The events most likely to induce discussions would be storms or heat waves of extreme intensity in developped countries.
 
-
-
-
-
-We should keep in mind that we only have access to english quotes from Quotebank. Therefore, when comparing the impact of an indian heat wave on the global talk about climate change, we really look at the impact that heatwave has on the english-speaking world. All these studies would be completed by taking into account the talk about climate change generated all over the world in different languages. 
+There is therefore an **inherent egocentrical view** when linking natural disasters to climate change. Although the events all over the world point towards global warming, only those near to one will actually make one think about the direct effects it is having on one's life, and thus accelerate discussions. <br>
+Let's also not forget that having a quotebank made up entirely of english quotes does not make this task easier, and probably accentuates even more this couldn't-care-less attitude that we witness when an event does not occur close to home.
