@@ -45,10 +45,10 @@ To select the individual disasters we select those that correspond to relevant s
 
 The first events we will consider are both heat waves from the year 2015. 
 
-INDIA : https://en.wikipedia.org/wiki/2015_Indian_heat_wave </br>
-During the month of may 2015, a severe heat wave struck India, with recorded temperatures nearing 50°C. Although the number of people affected is not well known, the heat wave caused at least 2500 casualties in multiple regions, making this heat wave the most deadly since 1979.
+INDIA : <br>
+During the month of may 2015, a severe [heat wave](https://en.wikipedia.org/wiki/2015_Indian_heat_wave) struck India, with recorded temperatures nearing 50°C. Although the number of people affected is not well known, the heat wave caused at least 2500 casualties in multiple regions, making this heat wave the most deadly since 1979.
 
-EUROPE : </br>
+EUROPE : <br>
 Unusual [heat](https://www.worldweatherattribution.org/european-heat-wave-july-2015/) [waves](https://www.washingtonpost.com/outlook/2019/07/26/europes-killer-heat-waves-are-new-norm-death-rates-shouldnt-be) occurred in Europe from late June to mid-September 2015, with over 40°C measured locally, the highest temperatures measured since the beginning of the weather records in certain parts of Europe. The Maghreb Mediterranean coast, south-west, central and south-east Europe were particularly hard hit. Statistically in France, around 3300 deaths were attributed to this series of heat waves.
 
 
@@ -68,11 +68,11 @@ Combining these two together, we can conclude that, in regards to heat waves, wh
 
 In the year 2016, being the warmest year on record, we will now compare the reactions to two heat waves in 2016, in the United States and India.
 
-USA : </br>
-This [heat wave](https://www.huffpost.com/entry/record-heat-wildfires-west-us_n_57678bb4e4b015db1bc9be59?section=) [in the United States](https://earthobservatory.nasa.gov/images/88547/extreme-heat-for-an-extreme-year) in July caused record temperatures in the Southwest, with "red flag warnings" for extreme fire conditions in effect across southern portions of California. </br>
+USA : <br>
+This [heat wave](https://www.huffpost.com/entry/record-heat-wildfires-west-us_n_57678bb4e4b015db1bc9be59?section=) [in the United States](https://earthobservatory.nasa.gov/images/88547/extreme-heat-for-an-extreme-year) in July caused record temperatures in the Southwest, with "red flag warnings" for extreme fire conditions in effect across southern portions of California. <br>
 During the peak of the heatwave, about 124 million people were under extreme heat warnings in the United States, according to the National Weather Service. 
 
-INDIA : </br>
+INDIA : <br>
 The 2016 [Indian heat wave](https://en.wikipedia.org/wiki/2016_Indian_heat_wave) was a major heat wave in April and May of that year. A national record high temperature of 51.0 °C was set in the town of Phalodi, in the state of Rajasthan. Over 160 people died with 330 million affected to some degree. There were also water shortages with drought worsening the impact of the heat wave.
 
 These two heatwaves seem very comparable in their effects and consequences, with both affecting at least a hundred million people. However, these comparable real consequences did not lead to a comparable effect on the discussion around climate change.
@@ -81,10 +81,10 @@ These two heatwaves seem very comparable in their effects and consequences, with
 
 ## Description of the events
 
-INDIA : </br>
+INDIA : <br>
 [Cyclone Titli](https://en.wikipedia.org/wiki/Cyclone_Titli) caused extensive damage to Eastern India and Bangladesh at the start of October 2018. Killing at least 85 people, it also caused nearly one billion dollars in damages during the single day it was on land.
 
-USA : </br>
+USA : <br>
 The [2017 Atlantic hurricane season](https://en.wikipedia.org/wiki/2017_Atlantic_hurricane_season) was an extremely active Atlantic hurricane season and the costliest on record, with a damage total of at least 290 billion dollars. The season featured 17 named storms, 10 hurricanes, and 6 major hurricanes. Most of the season's damage was due to hurricanes Harvey, Irma, and Maria.
 
 Although these events are not of the same scale, we did notice that the talk surrounding them was significant enough to warrant a study. 
