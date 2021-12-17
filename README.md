@@ -17,11 +17,297 @@ And if it does, is it the same everywhere, or are there geographical discrepenci
 
 # Do natural disasters drive discussions about climate change ? 
 
-Generally no, some effects are seen but they are very small (p-value ?)
-But we need to dive deeper and we see that there are 3 conditions for a natural disaster to cause talk about climate change.
-- Type
+For the quotation dataset, we intercepted the data from 2019-01-01 to 2020-04-16 containing keyword “climate change”，"global warming","greenhouse effect" and "greenhouse gas".
+This is because for the 2020's data, data are missing after April 16. For each day from 2019-01-01 to 2020-04-09, 
+we give this date two metrics that represents the reporting intensity of climate change for the week after this date,
+ "num_quota" represents how many different quotes about climate change were generated during the week, and "total_occur" represents the total number of these quotes occur, respectively.
+
+From the following statistics, we can conclude that the occurrence of disasters has played a minimal role 
+in triggering discussions on topics related to climate change, etc.
+
+<table class="MsoTableGrid" border="1" cellspacing="0" cellpadding="0" style="border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
+ mso-yfti-tbllook:1184;mso-padding-alt:0cm 5.4pt 0cm 5.4pt">
+ <tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes">
+  <td width="184" valign="top" style="width:138.25pt;border:solid windowtext 1.0pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal"><span lang="EN-US">T</span><span lang="EN-US" style="mso-bidi-font-size:10.5pt;font-family:&quot;Courier New&quot;;mso-fareast-font-family:
+  宋体;color:black">he week after a disaster happen</span></p>
+  </td>
+  <td width="184" valign="top" style="width:138.25pt;border:solid windowtext 1.0pt;
+  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal"><span lang="EN-US">Number of different <span class="GramE">quota</span></span></p>
+  </td>
+  <td width="184" valign="top" style="width:138.3pt;border:solid windowtext 1.0pt;
+  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal"><span lang="EN-US">Total time of related occurrence</span></p>
+  </td>
+ </tr>
+ <tr style="mso-yfti-irow:1">
+  <td width="184" valign="top" style="width:138.25pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt"><pre style="background:white;vertical-align:
+  baseline;word-break:break-all"><span lang="EN-US" style="font-size:10.5pt;
+  font-family:&quot;Courier New&quot;;color:black;mso-font-kerning:1.0pt">Mean</span><span lang="EN-US" style="mso-bidi-font-size:10.5pt;font-family:&quot;Courier New&quot;;
+  mso-bidi-font-family:宋体;color:black"><o:p></o:p></span></pre></td>
+  <td width="184" valign="top" style="width:138.25pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt"><pre style="background:white;vertical-align:baseline;word-break:break-all"><span lang="EN-US" style="font-size:10.5pt;font-family:&quot;Courier New&quot;;color:black;
+  mso-font-kerning:1.0pt">805.947368<o:p></o:p></span></pre></td>
+  <td width="184" valign="top" style="width:138.3pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt"><pre style="background:white;vertical-align:baseline;word-break:break-all"><span lang="EN-US" style="font-size:10.5pt;font-family:&quot;Courier New&quot;;color:black;
+  mso-font-kerning:1.0pt">2831.807018<o:p></o:p></span></pre></td>
+ </tr>
+ <tr style="mso-yfti-irow:2">
+  <td width="184" valign="top" style="width:138.25pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt"><pre style="background:white;vertical-align:
+  baseline;word-break:break-all"><span lang="EN-US" style="font-size:10.5pt;
+  font-family:&quot;Courier New&quot;;color:black;mso-font-kerning:1.0pt">Median<o:p></o:p></span></pre></td>
+  <td width="184" valign="top" style="width:138.25pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt"><pre style="background:white;vertical-align:baseline;word-break:break-all"><span lang="EN-US" style="font-size:10.5pt;font-family:&quot;Courier New&quot;;color:black;
+  mso-font-kerning:1.0pt">851.0<o:p></o:p></span></pre></td>
+  <td width="184" valign="top" style="width:138.3pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt"><pre style="background:white;vertical-align:baseline;word-break:break-all"><span lang="EN-US" style="font-size:10.5pt;font-family:&quot;Courier New&quot;;color:black;
+  mso-font-kerning:1.0pt">2794.0<o:p></o:p></span></pre></td>
+ </tr>
+ <tr style="mso-yfti-irow:3">
+  <td width="184" valign="top" style="width:138.25pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt"><pre style="background:white;vertical-align:
+  baseline;word-break:break-all"><span lang="EN-US" style="font-size:10.5pt;
+  font-family:&quot;Courier New&quot;;color:black;mso-font-kerning:1.0pt">Std<o:p></o:p></span></pre></td>
+  <td width="184" valign="top" style="width:138.25pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt"><pre style="background:white;vertical-align:baseline;word-break:break-all"><span lang="EN-US" style="font-size:10.5pt;font-family:&quot;Courier New&quot;;color:black;
+  mso-font-kerning:1.0pt">286.382326<o:p></o:p></span></pre></td>
+  <td width="184" valign="top" style="width:138.3pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt"><pre style="background:white;vertical-align:baseline;word-break:break-all"><span lang="EN-US" style="font-size:10.5pt;font-family:&quot;Courier New&quot;;color:black;
+  mso-font-kerning:1.0pt">1234.498893<o:p></o:p></span></pre></td>
+ </tr>
+ <tr style="mso-yfti-irow:4">
+  <td width="184" valign="top" style="width:138.25pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt"><pre style="background:white;vertical-align:
+  baseline;word-break:break-all"><span lang="EN-US" style="font-size:10.5pt;
+  font-family:&quot;Courier New&quot;;color:black;mso-font-kerning:1.0pt">Min</span><span lang="EN-US" style="font-size:10.5pt;mso-bidi-font-size:11.0pt;font-family:
+  等线;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:宋体;mso-hansi-theme-font:
+  minor-latin;mso-bidi-font-family:&quot;Times New Roman&quot;;mso-bidi-theme-font:minor-bidi;
+  mso-font-kerning:1.0pt"><o:p></o:p></span></pre></td>
+  <td width="184" valign="top" style="width:138.25pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt"><pre style="background:white;vertical-align:baseline;word-break:break-all"><span lang="EN-US" style="font-size:10.5pt;font-family:&quot;Courier New&quot;;color:black;
+  mso-font-kerning:1.0pt">161.000000 <o:p></o:p></span></pre></td>
+  <td width="184" valign="top" style="width:138.3pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt"><pre style="background:white;vertical-align:baseline;word-break:break-all"><span lang="EN-US" style="font-size:10.5pt;font-family:&quot;Courier New&quot;;color:black;
+  mso-font-kerning:1.0pt">215.000000<o:p></o:p></span></pre></td>
+ </tr>
+ <tr style="mso-yfti-irow:5;mso-yfti-lastrow:yes">
+  <td width="184" valign="top" style="width:138.25pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt"><pre style="background:white;vertical-align:
+  baseline;word-break:break-all"><span lang="EN-US" style="font-size:10.5pt;
+  font-family:&quot;Courier New&quot;;color:black;mso-font-kerning:1.0pt">Max</span><span lang="EN-US" style="font-size:10.5pt;mso-bidi-font-size:11.0pt;font-family:
+  等线;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:宋体;mso-hansi-theme-font:
+  minor-latin;mso-bidi-font-family:&quot;Times New Roman&quot;;mso-bidi-theme-font:minor-bidi;
+  mso-font-kerning:1.0pt"><o:p></o:p></span></pre></td>
+  <td width="184" valign="top" style="width:138.25pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt"><pre style="background:white;vertical-align:baseline;word-break:break-all"><span lang="EN-US" style="font-size:10.5pt;font-family:&quot;Courier New&quot;;color:black;
+  mso-font-kerning:1.0pt">1904.000000<o:p></o:p></span></pre></td>
+  <td width="184" valign="top" style="width:138.3pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt"><pre style="background:white;vertical-align:baseline;word-break:break-all"><span lang="EN-US" style="font-size:10.5pt;font-family:&quot;Courier New&quot;;color:black;
+  mso-font-kerning:1.0pt">7142.000000<o:p></o:p></span></pre></td>
+ </tr>
+</tbody></table>
+
+<table class="MsoTableGrid" border="1" cellspacing="0" cellpadding="0" style="border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
+ mso-yfti-tbllook:1184;mso-padding-alt:0cm 5.4pt 0cm 5.4pt">
+ <tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes">
+  <td width="184" valign="top" style="width:138.25pt;border:solid windowtext 1.0pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal"><span lang="EN-US">T</span><span lang="EN-US" style="mso-bidi-font-size:10.5pt;font-family:&quot;Courier New&quot;;mso-fareast-font-family:
+  宋体;color:black">he week after each <span class="GramE">day(</span>base line)</span></p>
+  </td>
+  <td width="184" valign="top" style="width:138.25pt;border:solid windowtext 1.0pt;
+  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal"><span lang="EN-US">Number of different <span class="GramE">quota</span></span></p>
+  </td>
+  <td width="184" valign="top" style="width:138.3pt;border:solid windowtext 1.0pt;
+  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt">
+  <p class="MsoNormal"><span lang="EN-US">Total time of related occurrence</span></p>
+  </td>
+ </tr>
+ <tr style="mso-yfti-irow:1">
+  <td width="184" valign="top" style="width:138.25pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt"><pre style="background:white;vertical-align:
+  baseline;word-break:break-all"><span lang="EN-US" style="font-size:10.5pt;
+  font-family:&quot;Courier New&quot;;color:black">Mean</span><span lang="EN-US" style="mso-bidi-font-size:10.5pt;font-family:&quot;Courier New&quot;;mso-bidi-font-family:
+  宋体;color:black"><o:p></o:p></span></pre></td>
+  <td width="184" valign="top" style="width:138.25pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt"><pre style="background:white;vertical-align:baseline;word-break:break-all"><span lang="EN-US" style="font-size:10.5pt;font-family:&quot;Courier New&quot;;color:black">812.446121<o:p></o:p></span></pre></td>
+  <td width="184" valign="top" style="width:138.3pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt"><pre style="background:white;vertical-align:baseline;word-break:break-all"><span lang="EN-US" style="font-size:10.5pt;font-family:&quot;Courier New&quot;;color:black">2801.952586<o:p></o:p></span></pre></td>
+ </tr>
+ <tr style="mso-yfti-irow:2">
+  <td width="184" valign="top" style="width:138.25pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt"><pre style="background:white;vertical-align:
+  baseline;word-break:break-all"><span lang="EN-US" style="font-size:10.5pt;
+  font-family:&quot;Courier New&quot;;color:black">Median<o:p></o:p></span></pre></td>
+  <td width="184" valign="top" style="width:138.25pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt"><pre style="background:white;vertical-align:baseline;word-break:break-all"><span lang="EN-US" style="font-size:10.5pt;font-family:&quot;Courier New&quot;;color:black">848.0<o:p></o:p></span></pre></td>
+  <td width="184" valign="top" style="width:138.3pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt"><pre style="background:white;vertical-align:baseline;word-break:break-all"><span lang="EN-US" style="font-size:10.5pt;font-family:&quot;Courier New&quot;;color:black">2787.0<o:p></o:p></span></pre></td>
+ </tr>
+ <tr style="mso-yfti-irow:3">
+  <td width="184" valign="top" style="width:138.25pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt"><pre style="background:white;vertical-align:
+  baseline;word-break:break-all"><span lang="EN-US" style="font-size:10.5pt;
+  font-family:&quot;Courier New&quot;;color:black">Std<o:p></o:p></span></pre></td>
+  <td width="184" valign="top" style="width:138.25pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt"><pre style="background:white;vertical-align:baseline;word-break:break-all"><span lang="EN-US" style="font-size:10.5pt;font-family:&quot;Courier New&quot;;color:black">274.371415<o:p></o:p></span></pre></td>
+  <td width="184" valign="top" style="width:138.3pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt"><pre style="background:white;vertical-align:baseline;word-break:break-all"><span lang="EN-US" style="font-size:10.5pt;font-family:&quot;Courier New&quot;;color:black">1185.697827<o:p></o:p></span></pre></td>
+ </tr>
+ <tr style="mso-yfti-irow:4">
+  <td width="184" valign="top" style="width:138.25pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt"><pre style="background:white;vertical-align:
+  baseline;word-break:break-all"><span lang="EN-US" style="font-size:10.5pt;
+  font-family:&quot;Courier New&quot;;color:black">Min</span><span lang="EN-US" style="font-size:10.5pt;mso-bidi-font-size:11.0pt;font-family:等线;mso-ascii-theme-font:
+  minor-latin;mso-fareast-font-family:宋体;mso-hansi-theme-font:minor-latin;
+  mso-bidi-font-family:&quot;Times New Roman&quot;;mso-bidi-theme-font:minor-bidi"><o:p></o:p></span></pre></td>
+  <td width="184" valign="top" style="width:138.25pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt"><pre style="background:white;vertical-align:baseline;word-break:break-all"><span lang="EN-US" style="font-size:10.5pt;font-family:&quot;Courier New&quot;;color:black">158.000000<o:p></o:p></span></pre></td>
+  <td width="184" valign="top" style="width:138.3pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt"><pre style="background:white;vertical-align:baseline;word-break:break-all"><span lang="EN-US" style="font-size:10.5pt;font-family:&quot;Courier New&quot;;color:black">205.000000<o:p></o:p></span></pre></td>
+ </tr>
+ <tr style="mso-yfti-irow:5;mso-yfti-lastrow:yes">
+  <td width="184" valign="top" style="width:138.25pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  padding:0cm 5.4pt 0cm 5.4pt"><pre style="background:white;vertical-align:
+  baseline;word-break:break-all"><span lang="EN-US" style="font-size:10.5pt;
+  font-family:&quot;Courier New&quot;;color:black">Max</span><span lang="EN-US" style="font-size:10.5pt;mso-bidi-font-size:11.0pt;font-family:等线;mso-ascii-theme-font:
+  minor-latin;mso-fareast-font-family:宋体;mso-hansi-theme-font:minor-latin;
+  mso-bidi-font-family:&quot;Times New Roman&quot;;mso-bidi-theme-font:minor-bidi"><o:p></o:p></span></pre></td>
+  <td width="184" valign="top" style="width:138.25pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt"><pre style="background:white;vertical-align:baseline;word-break:break-all"><span lang="EN-US" style="font-size:10.5pt;font-family:&quot;Courier New&quot;;color:black">2070.000000<o:p></o:p></span></pre></td>
+  <td width="184" valign="top" style="width:138.3pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt"><pre style="background:white;vertical-align:baseline;word-break:break-all"><span lang="EN-US" style="font-size:10.5pt;font-family:&quot;Courier New&quot;;color:black">7804.000000<o:p></o:p></span></pre></td>
+ </tr>
+</tbody></table>
+
+But we need to dive deeper and we see that there are 4 conditions for a natural disaster to cause talk about climate change.
+
+
+
+- Severity 
+
+We wanted to explore whether there was a correlation between the severity of the disaster and the discussion of climate change over the same period.
+So firstly, We give the emdat dataset four new metrics, "death score","affected score","damage score" and " severity score", 
+Severity score is a combination of "death score","affected score" and "damage score" that assesses the overall bad impact caused by a natural disaster.
+
+We used two methods to evaluate the correlations, calculating correlation coefficients and p-values, using scatter plots for visual analysis.
+We plotted scatter plots for each of the four natural disaster assessment metrics and the total number of quotations and their total occurrences in the coming week, 
+and calculated their correlation coefficients and p-values.
+
+From scatter map, Correlation coefficient and p value, We found there's no correlation between the severity of the disaster and the intensity of discussion on the topic of climate change. 
+The only slight link to the intensity of discussion on climate change related topics is property damage.
+
+The plot and result is following:
+
+![alt text](images/correlation_vis.png)
+
+Correlation coefficient between severe score and num_quota  r is =  0.056，p value is =  0.678
+
+Correlation coefficient between severe score and total_occur  r is =  0.099，p value is =  0.462
+
+Correlation coefficient between death score and num_quota  r is = -0.076，p value is =  0.572
+
+Correlation coefficient between affected score and num_quota  r is = -0.043，p value is =  0.753
+
+Correlation coefficient between damage score and num_quota  r is =  0.262，p value is =  0.049
+
+Correlation coefficient between death score and total_occur  r is = -0.061，p value is =  0.650
+
+Correlation coefficient between affected score and total_occur  r is =  0.049，p value is =  0.720
+
+Correlation coefficient between damage score and total_occur  r is =  0.247，p value is =  0.064
+
+
+
 - Location
-- Severity / intensity
+
+We assessed each country and region based on three metrics: the total severity of natural disasters that occurred in those countries during the statistical time, the total number of quotes about climate change that occurred at the same time as those natural disasters, and their total number of occurrences.
+From developed and developing countries, we see two very different models. 
+
+Following is the analysis results by region:
+
+(The more upward the blue bar, the greater the total severity of natural disasters suffered by the area during the statistical time, and vice versa. The more upward the blue bar, the greater the total severity of natural disasters suffered by this area during the statistical time, and vice versa. The higher the green and red bars, the higher the intensity of the discussion on climate change related topics in the region at the corresponding time, and vice versa.)
+ 
+<img src= "images/western_eu.png" width = "200", height = "200”/> <img src= "images/north_american.png" width = "200", height = "200”/> <img src= "images/southern_eu.png" width = "200", height = "200”/>
+
+<img src= "images/west_asia.png" width = "200", height = "200”/> <img src= "images/south_asia.png" width = "200", height = "200”/> <img src= "images/north_africa.png" width = "200", height = "200”/>
+
+From the results we can conclude that developed countries have experienced less severe natural disasters, but that these natural disasters have led to more discussions about climate change. Meanwhile, developing countries have experienced more severe natural disasters, but these have generated less discussion.
+
+In addition to the difference between developed and developing countries, another hypothesis about this phenomenon is that because this is an English-language dataset, the quotes and discussions are based on Anglo countries, each of country has more concerns about climate change because of natural disasters that occur within their own country or in more closely connected countries.
+People will always pay more attention to things they can perceive.
+
+Two other conclusions from the country-based analysis are that 1. natural disasters in smaller countries are less likely to generate public concern about climate change, a typical example being Fiji. 2. natural disasters in countries where fewer people speak English also generate less discussion about climate change, typical examples being Russia and China, as analyzed from this English-language dataset.
+
+
+-big event
+
+We did a time-based analysis of the discussion on climate change, as shown below, and found several clear dips and downward trends.
+For the decline in late April 2019, we suspect it may be due to the fire event of Notre Dame at that time, this event diverted people's attention from other things. the decline in late 2019 and early 2020 is due to Covid-19.
+We can see the same trend in Google Trends.
+
+
+![alt text](images/big event&time.png)
+
 
 # We pick specific storms and heat waves, why ?
 
