@@ -467,7 +467,7 @@ The task of determining if a (supposedly) real world increase in climate data is
 
 To select the individual disasters we select those that correspond to relevant spikes in the disaster data. We verify these spikes by looking for a similar pattern in Google Trends. In addition to verifying that the trends match, this tool will also often produce the specific natural disaster that occurred by checking the related queries. When selecting the disasters to compare, we look for the ones that cause an increase in climate discussion and those that don't. The goal of the analysis is to determine why two **similar disasters** could produce such **different results** in the climate data.
 
-## Description of the events
+## 2015 - Description of the events
 
 The first events we will consider are both heat waves from the year 2015. 
 
@@ -489,7 +489,7 @@ Combining these two together, we can conclude that, in regards to heat waves, wh
 
 ![alt text](images/2015_heat_wave_peaks_c.png)
 
-## Description of the events
+## 2017/2018 - Description of the events
 
 We will now look into hurricanes from 2017 and 2018 in the United States as well as cyclone in India.
 
@@ -522,7 +522,7 @@ Secondly, we can compare the two relevant spikes in the climate data that coinci
 
 ![alt text](images/2018_storm_peaks_c.png)
 
-## Description of the events
+## 2019 - Description of the events
 
 Finally we turn our interest towards two storms from fall 2019: a typhoon in Japan and a Hurricane in the Bahamas.
 
