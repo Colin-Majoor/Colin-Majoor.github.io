@@ -258,6 +258,8 @@ The only slight link to the intensity of discussion on climate change related to
 
 The plot and result is following:
 
+
+
 ![alt text](images/correlation_vis.png)
 
 Correlation coefficient between severe score and num_quota  r is =  0.056，p value is =  0.678
@@ -287,9 +289,14 @@ Following is the analysis results by region:
 
 (The more upward the blue bar, the greater the total severity of natural disasters suffered by the area during the statistical time, and vice versa. The more upward the blue bar, the greater the total severity of natural disasters suffered by this area during the statistical time, and vice versa. The higher the green and red bars, the higher the intensity of the discussion on climate change related topics in the region at the corresponding time, and vice versa.)
  
-<img src= "images/western_eu.png" width = "200", height = "200”/> <img src= "images/north_american.png" width = "200", height = "200”/> <img src= "images/southern_eu.png" width = "200", height = "200”/>
 
-<img src= "images/west_asia.png" width = "200", height = "200”/> <img src= "images/south_asia.png" width = "200", height = "200”/> <img src= "images/north_africa.png" width = "200", height = "200”/>
+ <img src="images/western_eu.png" width="200"/>
+<img src= "images/north_american.png" width = "200"/> <img src= "images/southern_eu.png" width = "200", height = "200”/>
+
+<br>
+<hr style="border:2px solid gray">
+
+<img src="images/west_asia.png" width = "200"/> <img src= "images/south_asia.png" width = "200"/> <img src= "images/north_africa.png" width = "200", height = "200”/>
 
 From the results we can conclude that developed countries have experienced less severe natural disasters, but that these natural disasters have led to more discussions about climate change. Meanwhile, developing countries have experienced more severe natural disasters, but these have generated less discussion.
 
@@ -435,12 +442,14 @@ This map gives us a clearer picture of **where a natural disaster should occur**
 
 
 All the data we have points towards 3 conditions for a natural disaster to induce discussions about climate change, in ascending order of importance :
-- The type of event, as long as it is associated with climate change
-- The severity of the event
-- The location of the event
+- The **type** of event, as long as it is associated with climate change
+- The **severity** of the event
+- The **location** of the event
 
 Then, the events least likely to induce discussions could be forest fires of small intensity in a developping country. <br>
 The events most likely to induce discussions would be storms or heat waves of extreme intensity in developped countries.
 
 There is therefore an **inherent egocentrical view** when linking natural disasters to climate change. Although the events all over the world point towards global warming, only those near to one will actually make one think about the direct effects it is having on one's life, and thus accelerate discussions. <br>
 Let's also not forget that having a quotebank made up entirely of english quotes does not make this task easier, and probably accentuates even more this couldn't-care-less attitude that we witness when an event does not occur close to home.
+
+# 
