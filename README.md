@@ -53,7 +53,6 @@ During the month of may 2015, a severe [heat wave](https://en.wikipedia.org/wiki
 EUROPE : <br>
 Unusual [heat](https://www.worldweatherattribution.org/european-heat-wave-july-2015/) [waves](https://www.washingtonpost.com/outlook/2019/07/26/europes-killer-heat-waves-are-new-norm-death-rates-shouldnt-be) occurred in Europe from late June to mid-September 2015, with over 40°C measured locally, the highest temperatures measured since the beginning of the weather records in certain parts of Europe. The Maghreb Mediterranean coast, south-west, central and south-east Europe were particularly hard hit. Statistically in France, around 3300 deaths were attributed to this series of heat waves.
 
-
 ## Inspection of the data
 
 Regarding the heat wave in India, we can notice a relevant spike at the end of April due to a slight increase in heat wave quotes which is stronger than that of the general data. There is no corresponding relevant spike in the climate data, on the contrary, there is a sharp decrease. The spike in heat wave data towards the end of August corresponds mainly to heat waves that affected Europe. There is a corresponding relevant spike that can be observed in the climate data.
@@ -62,11 +61,12 @@ These results lead us to make the following hypotheses. Firstly, that a heat wav
 
 Combining these two together, we can conclude that, in regards to heat waves, when this type of disaster happens in a developing country, such as [India](https://www.worlddata.info/developing-countries.php), Western media's reaction is non negligible, but there is no apparent increase in climate discussion. When, on the other hand, a heat wave takes place in Europe, it can generate climate discussion because the event is happening where the Western media is based and so there is a stronger need to find solutions to mitigate future similar events. When a heat wave takes place in India, the effects are not directly experienced by the Western media.
 
-![alt text](images/2015_heat_wave.png)
-![alt text](images/2015_heat_wave_peaks.png)
-
+![alt text](images/2015_heat_wave_c.png)
+![alt text](images/2015_heat_wave_peaks_c.png)
 
 ## Description of the events
+
+We will now look into hurricanes from 2017 and 2018 in the United States as well as cyclone in India.
 
 USA : <br>
 [Hurricane Harvey](https://en.wikipedia.org/wiki/Hurricane_Harvey) was a devastating Category 4 hurricane that made landfall on Texas and Louisiana in August 2017, causing catastrophic flooding, more than 100 deaths and inflicting $125 billion in property damage.
@@ -81,7 +81,6 @@ INDIA : <br>
 USA : <br>
 [Hurricane Florence](https://en.wikipedia.org/wiki/Hurricane_Florence) was a powerful hurricane that caused catastrophic damage in the Carolinas in September 2018. 
 Overall, the storm caused $24.23 billion in damage and 54 deaths.
-
 
 Although these events are not of the same scale, we did notice that the talk surrounding them was significant enough to warrant a study. 
 Also, Cyclone Titli occured around the same time as an IPCC special report on the impacts of global warming came out, making this study particularly difficult and interesting.
@@ -98,8 +97,15 @@ These results lead us to make the following hypotheses. Firstly, that a heat wav
 
 Combining these two together, we can conclude that, in regards to heat waves, when this type of disaster happens in a developing country, such as [India](https://www.worlddata.info/developing-countries.php), Western media's reaction is non negligible, but there is no apparent increase in climate discussion. When, on the other hand, a heat wave takes place in Europe, it can generate climate discussion because the event is happening where the Western media is based and so there is a stronger need to find solutions to mitigate future similar events. When a heat wave takes place in India, the effects are not directly experienced by the Western media.
 
+![alt text](images/2017_storm_c.png)
+![alt text](images/2017_storm_peaks_c.png)
+
+![alt text](images/2018_storm_c.png)
+![alt text](images/2018_storm_peaks_c.png)
 
 ## Description of the events
+
+Finally we turn our interest towards two storms from fall 2019: a typhoon in Japan and a Hurricane in the Bahamas.
 
 BAHAMAS : <br>
 In September of 2019 during hurricane season, [Hurricane Dorian](https://en.wikipedia.org/wiki/Hurricane_Dorian) became the worst natural disaster in The Bahamas' recorded history, with 74 deaths, 245 missing and over 3 billion dollars in damages.
@@ -122,7 +128,10 @@ We conclude with the following hypotheses. The typhoon that hit Japan, a develop
 Note that the spike in climate data that reaches 1.0 at the end of September 2019 is due to the [September 2019 climate strikes](https://en.wikipedia.org/wiki/September_2019_climate_strikes).
 
 
-### General conclusions about the data analysis 
+![alt text](images/2019_storm_c.png)
+![alt text](images/2019_storm_peaks_c.png)
+
+## General conclusions about the data analysis 
 
 Just because a natural disaster gets a lot of attention does not necessarily mean that it will drive climate change discussion, and there are several reasons for this. One reason is that a certain type of natural disaster might be common in parts of the world, meaning that quotes pertaining to governments advising the population to stay hydrated for example will occur frequently, but no discussion around climate change will be started because of how common the event is. 
 Another is that a natural disaster might not be devastating enough to catch the attention of major public figures. In the case of Quotebank, it is likely the case that the event would have to capture the attention of major public figures from the Western world to garner any significant reaction.
