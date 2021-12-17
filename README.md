@@ -29,6 +29,18 @@ But we need to dive deeper and we see that there are 3 conditions for a natural 
 
 Selected events based on the apparent link in Quotebank between talk about the event and about climate change. Visual inspection of the plots + Google trends to ensure the talks are in fact due to the event and not other climate related activities (conference, strike, speech, etc.)
 
+In the following sections, a comparison is made between discussion around the topic of climate change (climate data) and a general type of natural disaster (disaster data), either storms (e.g., hurricanes, typhoons, ...) or heat waves. One can be tempted to conclude that an observed increase in both would mean that the natural disaster caused an increase in discussion around climate change, however many factors can come into play. Real world factors could be climate summits and strikes or the release of a major climate report. On a more technical level though, the overall amount of quotes in the Quotebank dataset can fluctuate over time, meaning that an observed increase in the quotes related to climate change might be due to an increase in the overall number of quotes retrieved during that time window, rather than being due to a actual increase in quotes in the real world.
+
+We attempt to account for the fluctuation in overall quotes retrieved over a time period by picking a common english word ('especially') which is broad enough to appear in many different contexts but not so broad that a subset of the Quotebank dataset which contains this token is too big to load into memory. The idea is that this subset of Quotebank (general data) is able to represent the general evolution of the number of quotes throughout a given time frame.
+
+By including the general data, it can, for certain years, become blatantly obvious that spikes in the climate and disaster data happen simply because there is an increase in overall number of quotes because the evolution of all three quote occurrences follow an identical trend. The goal is to identify the parts of the climate and disaster data which increase for a reason other than there simply being a sudden increase in overall number quotes by leveraging the general data. 
+
+In order to reach the aforementioned goal, we define a method for extracting so-called 'relevant spikes'. These are spikes in the climate and disaster related data which go against the trend of the general data, or surpass it by an adjustable parameter. For example, if the general data stays stable over the course of a few weeks, but the climate data experiences a sharp increase, we could decide to identify as a relevant spike. Whether or not the spike is due to a particular disaster is irrelevant at this stage, we simply want to identify spikes in the data which are likely caused by some effect from the real world.
+
+The task of determining if a (supposedly) real world increase in climate data is related to a real world increase in disaster data is part of what the next sections try to tackle. Through a series of comparisons between events of a given disaster type occurring in different places, we try to determine the main factors that can create a causal relationship between the disaster (and discussion around it) and discussion around climate change. The hypotheses developed try to keep in mind that Quotebank was extracted from news articles in English, meaning that most quotes will originate from Western media and countries such as the United States, the United Kingdom, Canada and Australia. Of course, there are news English-speaking news outlets in many different countries, for example India, but the balance is uneven. 
+
+To select the individual disasters we select those that correspond to relevant spikes in the disaster data. We verify these spikes by looking for a similar pattern in Google Trends. In addition to verifying that the trends match, this tool will also often produce the specific natural disaster that occurred by checking the related queries. Additionally, the specific natural disasters and their properties can be verified using Wikipedia, notably, we made use of the (List of heat waves)[https://en.wikipedia.org/wiki/List_of_heat_waves#2015] article. When selecting the disasters to compare, we look for the ones that cause an increase in climate discussion and those that don't. The goal of the analysis is to determine why two similar disasters could produce such different results in the climate data.
+
 ## Description of the events
 
 The first events we will consider are both heat waves from the year 2015. 
@@ -42,6 +54,8 @@ Unusual heat waves occurred in Europe from late June to mid-September 2015, with
 
 
 ## Inspection of the data
+
+Regarding the heat wave in India, we can notice a relevant spike at the end of April due to a slight increase in heat wave quotes which is stronger than that of the general data. There is no corresponding relevant spike in the climate data, on the contrary, there is a sharp decrease. The spike in heat wave data towards the end of July corresponds mainly to heat waves that affected the US and Europe. The following week a slight relevant spike can be observed in the climate data. Finally, in the middle of August we identify a relevant spike in the heat wave data which corresponds to a heat wave that affected mostly Europe. There is no corresponding relevant spike in the climate data for this third heat wave. These results lead us to make the following hypotheses. Firstly, that a heat wave occurring in India doesn't attract the same level of attention (based on the spike magnitudes) as heat waves in Europe and North America because Western media tends to have a stronger reaction to something when it happens geographically close to it. Secondly, the discussion around climate change might not increase as a result of a heat wave in India because they are more common there than in Europe and North America. According to WHO: ("In India  Heat waves typically occur from March to June")[https://www.who.int/india/heat-waves]. Combining these two together, we can conclude that, in regards to heat waves, when this type of disaster happens in a developing country, such as (India)[https://www.worlddata.info/developing-countries.php], Western media's reaction is non negligible, but there is no apparent increase in climate discussion. Considering the difference in climate discussion initiated between the two heat waves affecting North America and Europe, we could postulate that it is due to the fact that most quotes related to climate change in Europe would be in some language other than English. 
 
 ![alt text](images/2015_storm.png)
 ![alt text](images/2015_storm_peaks.png)
@@ -89,6 +103,13 @@ At the start of October 2019, the Typhoon Hagibis caused widespread destruction 
 Although the typhoon in Japan caused more monetary damages, that is to be expected considering the size of the country. 
 
 ## Inspection of the data
+
+
+
+## General conclusions about data: just because a natural disaster gets a lot of attention does not necessarily mean that it will drive climate change discussion. There are several reasons for this. 
+One is that a certain type of natural disaster might be common in parts of the world, meaning that quotes pertaining to governments advising the population to stay hydrated for example will occur frequently, but no discussion around climate change will be started because of how common the event is. 
+Another is that a natural disaster might not be devastating enough to catch the attention of major public figures.
+
 
 
 # Synthesis
